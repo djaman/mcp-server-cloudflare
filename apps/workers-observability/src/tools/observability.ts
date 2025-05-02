@@ -12,7 +12,7 @@ import {
 } from '@repo/mcp-common/src/types/workers-logs-schemas'
 
 import type { ObservabilityMCP } from '../index'
-
+//working
 /**
  * Registers the logs analysis tool with the MCP server
  * @param server The MCP server instance
